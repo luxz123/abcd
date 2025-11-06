@@ -1,0 +1,20 @@
+//Buatan ./STEVEN•STORE〽 [ t.me/stevenstoree ]
+//buat loh Yang Buy, jangan Jual Murah
+//Jangan Hapus Pembuat Original Cok, dan Ngaku Ngaku
+//BOT TELE STEVEN•STORE〽
+//Sc Buatan: ./STEVEN•STORE〽️
+//Di Recode:
+//dikembangin:
+
+
+BASE ORI ./STEVEN•STORE〽
+
+buat Anak JB, Saya Tau jb Tapi jangan ngaku ngaku buatan kalian deh
+
+Bantu Subs Yt Saya Untuk Info Terbaru
+
+https://www.youtube.com/steven-storee
+
+npm i fake-useragent request url tls http http2 cloudscraper randomstring events cluster net fs crypto colors node-telegram-bot-api gradient-string requests axios telegraf express child_process
+
+salin dan tempel di terminal
